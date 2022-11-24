@@ -1,0 +1,21 @@
+import java.text.*;
+import javax.swing.JOptionPane;
+
+public class MusicWorldApp{
+
+	public static void main(String[] args) {
+		String cdId,cdTitile;
+		String cdTitle;
+		int cdQuanlity;
+		double cdPrice;
+		double cdSubtotal;
+		final double TAX_RATE = 0625;
+		DecimalFormat df = new DecimalFormat("#,####");
+		String CDId = JOptionPane.showInputDialog("This program calculates the total cost of a CD order  "
+				+ "Please enter the ID of the CD" );
+		
+		
+
+	}
+
+}

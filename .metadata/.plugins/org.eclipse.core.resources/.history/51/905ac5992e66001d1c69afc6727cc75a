@@ -1,0 +1,18 @@
+import java.text.*;
+import javax.swing.JOptionPane;
+
+public class musicworldapp {
+
+	public static void main(String[] args) {
+		String cdId;
+		String cdTitle;
+		int cdQuanlity;
+		double cdPrice;
+		double cdSubtotal;
+		final double TAX_RATE = 0625;
+		String CDId = JOptionPane.showInputDialog("This program calculate")
+		
+
+	}
+
+}
