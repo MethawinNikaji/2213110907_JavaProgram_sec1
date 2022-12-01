@@ -1,0 +1,21 @@
+import java.util.*;
+public class Lab403 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print(" Messenge  ");
+		String Messenge = sc.nextLine();
+		String lowerMessenge = Messenge.toLowerCase();
+		if(lowerMessenge.indexOf("nichi")>=0) {
+			System.out.println("Nichi is a messenge");
+		}
+		else {
+			System.out.println("Messenge");
+		}
+		      
+		
+		    
+			
+	}
+
+}

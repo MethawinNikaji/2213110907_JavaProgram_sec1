@@ -25,7 +25,7 @@ cdQuantity = JOptionPane.showInputDialog("Please enter the quantity to be purcha
 double dcdQuantity = Double.parseDouble(cdQuantity);
 cdSubtotal = dcdPrice * dcdQuantity;
 cdTotal = cdSubtotal * (1 + TAX_RATE);
-JOtionPane.showMessageDialog(null,
+JOptionPane.showMessageDialog(null,
 "Summary of the transacton\n\n" +"CD ID:" + "\\nCD Title:" +"CD ID:" + cdID + "\nCD Title:"
    + cdtitle "inco att reto +f2. format (DcdPrice) + "\nCD Quantity: one. format(fcdQuantity)
     "Indiacetat + sdf.format(cdSubtotal) + "\nTax rate:" + (TAX RATE 100)"

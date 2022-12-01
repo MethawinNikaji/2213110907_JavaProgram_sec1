@@ -1,0 +1,10 @@
+import javax.swing.*;
+import java.text.*;
+public class salepersonsalary {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

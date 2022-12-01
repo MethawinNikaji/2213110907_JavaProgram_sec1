@@ -1,0 +1,10 @@
+import javax.swing.*;
+public class Example_403dialogbox {
+
+	public static void main(String[] args) {
+		String sentence =JOptionPane.showInputDialog("Input a sentence ");
+		while
+
+	}
+
+}
