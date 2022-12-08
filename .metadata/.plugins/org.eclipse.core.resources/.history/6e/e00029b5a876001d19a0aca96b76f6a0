@@ -1,0 +1,15 @@
+import javax.swing.*;
+public class Lab503 {
+static int inputYear;
+	public static void main(String[] args) {
+		inputYear = Integer.parseInt(JOptionPane.showInputDialog("Input year"));
+		while(inputYear<=1000 || inputYear>3000 ) {
+			inputYear =  Integer.parseInt(JOptionPane.showInputDialog(
+					 "Please input year between 1000-3000"
+					+"\nInput Year,again"));
+		}
+	
+
+	}
+
+}
