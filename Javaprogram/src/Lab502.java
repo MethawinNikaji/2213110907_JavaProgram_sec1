@@ -9,7 +9,7 @@ static String email;
 		do {
 			email = JOptionPane.showInputDialog("Input your e-mail");
 			checkEmailError(email);
-			ans = JOptionPane.showInputDialog("Contunu{y|Y to contunue");
+			ans = JOptionPane.showInputDialog("Continue|Y to continue");
 		}while(ans.equalsIgnoreCase("y"));
 		
 	}
