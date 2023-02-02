@@ -1,0 +1,4 @@
+studentID:2213110907
+Fullname: Methawin Nikaji
+AKA:Month
+ClassDetail:Composition, Inheritance, and Polymorphism
